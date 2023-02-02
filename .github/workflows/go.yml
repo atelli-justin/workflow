@@ -23,8 +23,8 @@ jobs:
         check-latest: true
 
     - name: Build
-      run: go build -v ./src/main
+      run: go build -v ./...
 
     - name: Test
-      run: go test -v ./src/main
+      run: go test -v ./...
     
