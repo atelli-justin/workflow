@@ -5,12 +5,6 @@ import "fmt"
 var isActive bool                   // 全域性變數宣告
 var enabled, disabled = true, false // 忽略型別的宣告
 
-func test() {
-	var available bool // 一般宣告
-	valid := false     // 簡短宣告
-	available = true   // 賦值操作
-}
-
 func main() {
 	var x, y int
 	x, y = 8, 7
