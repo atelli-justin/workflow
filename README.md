@@ -1,3 +1,2 @@
 # workflow
-workflow  
-first go project
+Test GO lang and Action.
