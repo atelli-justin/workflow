@@ -27,3 +27,6 @@ jobs:
 
     - name: Test
       run: go test -v ./src/main
+    
+    - name: Run
+    - run: go run hello.go
