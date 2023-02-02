@@ -1,2 +1,2 @@
-github.com/iamken1204/shutdown v0.0.0-20210330075426-1239dd1b3742 h1:z2wpG/FUJQrojVv+AtsMsgewQ/MLsxLgpeW3DUsE9Hg=
-github.com/iamken1204/shutdown v0.0.0-20210330075426-1239dd1b3742/go.mod h1:TA9a5yeyN7loL8Ynzq6L2KpFhmc3clJSVn6KwRQYGfg=
+github.com/astaxie/beedb v0.0.0-20141221130223-1732292dfde4 h1:H6nlE+4uYvw3cLPG+6VyZC95cK7v4IOSJtSgFqRyAk8=
+github.com/astaxie/beedb v0.0.0-20141221130223-1732292dfde4/go.mod h1:2b16Ly607ElY8oA125L5xtogpOZ3MsWgAxunF3WDDbA=
